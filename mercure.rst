@@ -1,7 +1,7 @@
 Pushing Data to Clients Using the Mercure Protocol
 ==================================================
 
-Being able to broadcast data in real-time from servers to clients is a
+Being able to Broadcast data in real-time from servers to clients is a
 requirement for many modern web and mobile applications.
 
 Creating a UI reacting in live to changes made by other users
